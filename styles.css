@@ -14,8 +14,8 @@ body{
 }
 
 #header-logo{
-font-size: 24px;
-color: #f9faf8;
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .header-link{
@@ -83,10 +83,7 @@ h1{
     justify-content: center;
     flex-direction: column;
     width: 50%
-}
-
-img{
-    margin: 50px;
+    
 }
 
 .p-first{
@@ -104,6 +101,7 @@ h2{
 
 .boxes-of-blue-divs{
 display: flex;
+gap: 25px;
 flex-direction: row;
 justify-content: space-between;
 max-width: 100%;
@@ -112,9 +110,11 @@ align-items: center;
 margin-right: 100px;
 margin-left: 100px;
 }
- 
+
 img{
     border-radius: 10px;
+    border: 2px solid #3882F6;
+    margin: 50px;
 }
 .p-second{
     align-content: center;
