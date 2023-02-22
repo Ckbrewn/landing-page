@@ -2,10 +2,8 @@ Plain styled site. Practicing my CSS skills. Yet to implement media query respon
 
 [View The Site](https://ckbrewn.github.io/landing-page/)
 
-<img width="1439" alt="Screen Shot 2023-02-22 at 12 58 32 PM" src="https://user-images.githubusercontent.com/93859178/220757789-1427170b-d1fb-4cd6-994d-d9f8d41e3871.png">
+<img width="1439" alt="Screen Shot 2023-02-22 at 1 38 48 PM" src="https://user-images.githubusercontent.com/93859178/220765371-7b0da4b7-1c1b-4479-beff-9a256f4e2cbc.png">
 
-<img width="1439" alt="Screen Shot 2023-02-22 at 1 02 21 PM" src="https://user-images.githubusercontent.com/93859178/220758382-f60ac736-26b6-4438-8e63-d3f8889491df.png">
+<img width="1439" alt="Screen Shot 2023-02-22 at 1 39 22 PM" src="https://user-images.githubusercontent.com/93859178/220765392-4a3dfa01-67d1-4505-af8a-b8b3ac1d94f1.png">
 
-<img width="1439" alt="Screen Shot 2023-02-22 at 1 00 48 PM" src="https://user-images.githubusercontent.com/93859178/220758097-2c14eed9-de89-4360-8271-95029867795f.png">
-
-
+<img width="1439" alt="Screen Shot 2023-02-22 at 1 39 41 PM" src="https://user-images.githubusercontent.com/93859178/220765393-1d4ea904-e773-4b53-b604-37a4a8e65ae3.png">
