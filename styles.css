@@ -55,6 +55,8 @@ ul{
 h1{
     font-size: 48px;
     font-weight: bolder;
+    align-items: center;
+    justify-content: left;
     color: #f9faf8;
 }
 
@@ -62,7 +64,7 @@ h1{
     background-color: #3882F6;
     color: #E5E7EB;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 8px;
     width: 75px;
     margin-top: 20px;
 }
@@ -91,6 +93,9 @@ h1{
     margin-right: 50px;
     color: #E5E7EB;
     font-size: 18px;
+    line-height: 30px;
+    align-items: center;
+    justify-content: left;
 }
 
 h2{
@@ -108,8 +113,8 @@ h2{
     max-width: 100%;
     margin: 50px;
     align-items: center;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
 
 img{
